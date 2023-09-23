@@ -4,5 +4,6 @@ if arbit > front *3:
     print (arbit, end=" ,больше пограничного числа больше чем в 3 раза")
 elif arbit > front:
     print(arbit, end=" больше пограничного числа" )
-else: print(arbit, end=" меньше пограничного числа" )
+else: 
+    print(arbit, end=" меньше пограничного числа" )
 
